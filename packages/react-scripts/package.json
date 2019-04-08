@@ -1,12 +1,8 @@
 {
-  "name": "react-scripts",
+  "name": "spec-react-scripts",
   "version": "3.1.1",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
-  },
+  "description": "Configuration and scripts for Create React App - chunking.",
+  "repository": "WilliamChiu/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
